@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom_syms)(type Legacy)(uri ${KIPRJMOD}/custom_syms.lib)(options "")(descr ""))
+  (lib (name v3s)(type Legacy)(uri ${KIPRJMOD}/v3s.lib)(options "")(descr ""))
+)
